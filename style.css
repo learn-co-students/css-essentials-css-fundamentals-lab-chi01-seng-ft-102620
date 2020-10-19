@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+header a {
+  background-color: grey;
+  padding: 10px
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+
+section#featured-property {
+  margin-left: auto;;
+  margin-right: auto;
+  text-align: center;
+  font-size: 12px
+}
+
+section#details {
+  background-color: red;
+  column-count: 4;
+  text-align: center;
+  display: run-in;
+}
