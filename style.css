@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  text-align: center;
+  padding-left: : 10px;
+  padding-right: 10px;
+  background-color: #BEBEBE;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+.text {
+  width: 800px;
+  display: block;
+  text-align: center;
+}
+
+#details {
+  display: block;
+  float: left;
+}
+
+.left {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%
+}
